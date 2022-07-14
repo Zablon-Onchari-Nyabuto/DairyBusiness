@@ -1,0 +1,31 @@
+/* Styling the navigation bar */
+.logo {
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    float: center;
+    color: white;
+  }
+  a {
+    display:flex;
+    float: center;
+    padding: 10px;
+  }
+  .navbar {
+    display: flex;
+    color: white;
+    font-family: Poppins;
+    justify-content: space-between;
+    width: 30%;
+    height: 10%;
+  }
+  .button1{
+    background-color:brown;
+  }
