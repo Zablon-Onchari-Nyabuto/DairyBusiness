@@ -2,7 +2,7 @@
 15/07/2022
 By **{Zablon Onchari Nyabuto}**
 ## Description
-This website is for a dairy business by the name od DAIRY BUSINESS. The website provides automated reports on the production and sales being made by the business in the absence of the owbner at the location of the business. The website provides calculations of the expected production of milk per shade per day as well as the revenue earned by the business at the end of the week and annually. Finally the website sends the automated report to the owner on the revenue and production figures.
+This website is for a dairy business by the name of DAIRY BUSINESS. The website provides automated reports on the production and sales being made by the business in the absence of the owbner at the location of the business. The website provides calculations of the expected production of milk per shade per day as well as the revenue earned by the business at the end of the week and annually. Finally the website sends the automated report to the owner on the revenue and production figures.
 ## Setup/Installation Requirements
 * To run this app, render the following link - https://zablon-onchari-nyabuto.github.io/Dairy/
 * No dependencies are needed to use this app and it can run on any server provided you have access to data bundles
