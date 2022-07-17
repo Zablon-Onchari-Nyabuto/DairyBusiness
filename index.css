@@ -4,7 +4,7 @@
 }
 /* Styling the navigation bar */
 .topnav {
-  background-color: pink;
+  background-color: lightblue;
   text-align: justify;
 }
 .logo {
@@ -47,7 +47,7 @@ a {
 
 /* Styling the image of the body background */
 .body {
-  background-color: pink;
+  background-color: lightblue;
   float: left;
   display: flex;
 }
