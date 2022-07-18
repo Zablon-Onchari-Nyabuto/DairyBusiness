@@ -14,9 +14,9 @@ const id3 = document.getElementById('leapYear')
 function report() {
 
     shedProduction.1 = parseInt(document.getElementById('first.1').value);
-    shedProduction.1 = parseInt(document.getElementById('first.1').value);
-    shedProduction.1 = parseInt(document.getElementById('first.1').value);
-    shedProduction.1 = parseInt(document.getElementById('first.1').value);
+    shedProduction.2 = parseInt(document.getElementById('first.2').value);
+    shedProduction.3 = parseInt(document.getElementById('first.3').value);
+    shedProduction.4 = parseInt(document.getElementById('first.4').value);
 
     function totalProduction() {
         let header = document.createElement(h3)
@@ -72,6 +72,5 @@ function report() {
 
     // Function to calculate monthly Revenues in a leap year
 
-    
-}
 
+}
